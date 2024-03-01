@@ -1,0 +1,5 @@
+.contactLi:hover{
+    background-color: rgb(50, 205, 158, 0.2);
+    cursor: pointer;
+    transition: all .3s;
+}
